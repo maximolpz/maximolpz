@@ -48,10 +48,8 @@
 <br>
 <h3 align="center">📫 Contato:</h3>
     <p align="center">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maximo.lpz88@icloud.com" target="_blank">
-  Enviar email
-</a>
-      <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="[mailto:max.lpz88@icloud.com](https://mail.google.com/mail/?view=cm&fs=1&to=maximolpz@icloud.com)"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge"></a>
+      <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
 </div> 
 
