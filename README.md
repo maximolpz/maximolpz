@@ -8,10 +8,10 @@
     <br>
     <br>
   <a href="https://github.com/maximolpz/portfolio/blob/main/CV_Spanish_Maximo_Nahuel_Lopez.pdf">
-    <img src="https://img.shields.io/badge/-CV|v.ES-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-CV|ES-red?style=for-the-badge" style="border: none; outline: none;">
   </a>
   <a href="https://github.com/maximolpz/portfolio/blob/main/CV_English_Maximo_Nahuel_Lopez.pdf">
-    <img src="https://img.shields.io/badge/-CV|v.EN-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-CV|EN-blue?style=for-the-badge" style="border: none; outline: none;">
   </a>
     <br>
     <br>
