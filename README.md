@@ -4,6 +4,15 @@
     automatizado en entornos web, APIs y mobile. Lideré equipos de QA, desarrollé frameworks
     desde cero y mejoré cobertura en pipelines CI/CD con Cypress, Playwright, Postman, JMeter,
     entre otros. Enfocado en aportar eficiencia y calidad en entornos ágiles.
+
+<br>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1dtCT7gCESsOlKTsVoY_13Zzmkb43wFoS/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-Ver%20mi%20CV-blue?style=for-the-badge">
+  </a>
+</div>
+
 <br>
 <br>
     - 🔍 Apasionado por mejorar la calidad del software con foco en eficiencia, automatización y buenas prácticas.
@@ -39,5 +48,4 @@
 <p align="center">
   <a href="mailto:max.lpz88@icloud.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  [![CV](https://img.shields.io/badge/CV-2025-lightgrey?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1dtCT7gCESsOlKTsVoY_13Zzmkb43wFoS/view?usp=sharing)
 </p>
