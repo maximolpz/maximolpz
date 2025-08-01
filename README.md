@@ -13,6 +13,7 @@
     <br>
     <br>
     - 🔍 Apasionado por mejorar la calidad del software con foco en eficiencia, automatización y buenas prácticas.
+        <br>
     - 🚀 Siempre abierto a nuevos desafíos donde pueda seguir aprendiendo y aportando valor.
     <br>
     <br>
