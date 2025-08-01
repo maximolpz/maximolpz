@@ -8,11 +8,11 @@
     <br>
     <br>
    <a href="https://github.com/maximolpz/portfolio/blob/main/CV_Spanish_Maximo_Nahuel_Lopez.pdf">
-    <img src="https://img.shields.io/badge/-CV (ES)-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-CV (ES)-red?style=for-the-badge" target="_blank">
   </a>
   &nbsp;
   <a href="https://github.com/maximolpz/portfolio/blob/main/CV_English_Maximo_Nahuel_Lopez.pdf">
-    <img src="https://img.shields.io/badge/-CV (EN)-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-CV (EN)-blue?style=for-the-badge" target="_blank">
   </a>
     <br>
     <br>
@@ -50,7 +50,6 @@
     <p align="center">
       <a href="mailto:max.lpz88@icloud.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href="https://drive.google.com/file/d/1dtCT7gCESsOlKTsVoY_13Zzmkb43wFoS/view?usp=sharing"><img src="https://img.shields.io/badge/-Ver%20mi%20CV-violet?style=for-the-badge"></a>
     </p>
 </div> 
 
