@@ -1,21 +1,18 @@
 <h1 align="center">Hola 👋 Soy Maximo Nahuel Lopez </h1>
-<p align="center">
+
+<div align="center">
     QA Automation Engineer con más de 10 años de experiencia combinando testing manual y
     automatizado en entornos web, APIs y mobile. Lideré equipos de QA, desarrollé frameworks
     desde cero y mejoré cobertura en pipelines CI/CD con Cypress, Playwright, Postman, JMeter,
     entre otros. Enfocado en aportar eficiencia y calidad en entornos ágiles.
-<br>
-<div align="center">
+    <br>
   <a href="https://drive.google.com/file/d/1dtCT7gCESsOlKTsVoY_13Zzmkb43wFoS/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Ver%20mi%20CV-blue?style=for-the-badge">
   </a>
-</div>
-<br>
-    - 🔍 Apasionado por mejorar la calidad del software con foco en eficiencia, automatización y buenas prácticas.
     <br>
+    - 🔍 Apasionado por mejorar la calidad del software con foco en eficiencia, automatización y buenas prácticas.
     - 🚀 Siempre abierto a nuevos desafíos donde pueda seguir aprendiendo y aportando valor.
-</p>
-
+</div> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximolpz&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
