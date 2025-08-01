@@ -46,6 +46,7 @@
     <p align="center">
       <a href="mailto:max.lpz88@icloud.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://drive.google.com/file/d/1dtCT7gCESsOlKTsVoY_13Zzmkb43wFoS/view?usp=sharing"><img src="https://img.shields.io/badge/-Ver%20mi%20CV-blue?style=for-the-badge"></a>
     </p>
 </div> 
 
