@@ -8,7 +8,7 @@
     <br>
     <br>
   <a href="https://drive.google.com/file/d/1dtCT7gCESsOlKTsVoY_13Zzmkb43wFoS/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/-Ver%20mi%20CV-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Ver%20mi%20CV-blue?style=for-the-badge" target="_blank">
   </a>
     <br>
     <br>
