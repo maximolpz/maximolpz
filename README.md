@@ -7,7 +7,7 @@
     entre otros. Enfocado en aportar eficiencia y calidad en entornos ágiles.
     <br>
     <br>
-  <a href="https://drive.google.com/file/d/1dtCT7gCESsOlKTsVoY_13Zzmkb43wFoS/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1dtCT7gCESsOlKTsVoY_13Zzmkb43wFoS/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Ver%20mi%20CV-blue?style=for-the-badge">
   </a>
     <br>
