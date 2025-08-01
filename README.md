@@ -7,11 +7,11 @@
     entre otros. Enfocado en aportar eficiencia y calidad en entornos ágiles.
     <br>
     <br>
-  <a href="https://github.com/maximolpz/portfolio/blob/main/CV_Spanish_Maximo_Nahuel_Lopez.pdf" target="_blank">ES
-    <img src="https://img.shields.io/badge/-Ver%20mi%20CV-blue?style=for-the-badge" target="_blank">
+  <a href="https://github.com/maximolpz/portfolio/blob/main/CV_Spanish_Maximo_Nahuel_Lopez.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-CV|ES-red?style=for-the-badge" target="_blank">
   </a>
-  <a href="https://github.com/maximolpz/portfolio/blob/main/CV_English_Maximo_Nahuel_Lopez.pdf" target="_blank">EN
-    <img src="https://img.shields.io/badge/-Ver%20mi%20CV-blue?style=for-the-badge" target="_blank">
+  <a href="https://github.com/maximolpz/portfolio/blob/main/CV_English_Maximo_Nahuel_Lopez.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-CV|EN-blue?style=for-the-badge" target="_blank">
   </a>
     <br>
     <br>
