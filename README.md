@@ -1,10 +1,10 @@
-<h1 align="center">Hola 👋 Soy Maximo Nahuel Lopez </h1>
+<h1 align="center">Hi!👋 I'm Maximo Nahuel Lopez </h1>
 
 <div align="center">
-    QA Automation Engineer con más de 10 años de experiencia combinando testing manual y
-    automatizado en entornos web, APIs y mobile. Lideré equipos de QA, desarrollé frameworks
-    desde cero y mejoré cobertura en pipelines CI/CD con Cypress, Playwright, Postman, JMeter,
-    entre otros. Enfocado en aportar eficiencia y calidad en entornos ágiles.
+    Manual Testing and Automation Specialist with over 10 years of experience designing QA processes for Web, API, and Mobile environments.
+Responsible for leading QA teams, developing frameworks from scratch, optimizing CI/CD pipelines, and managing E2E testing.
+Proven track record of reducing regression times and improving test coverage using Cypress, Playwright, Postman, JMeter, and GitHub Actions.
+Expert in Agile/Scrum environments, focused on results and continuous improvement.
     <br>
     <br>
    <a href="https://github.com/maximolpz/portfolio/blob/main/CV_ES_Maximo_Nahuel_Lopez.pdf">
@@ -16,9 +16,9 @@
   </a>
     <br>
     <br>
-    - 🔍 Apasionado por mejorar la calidad del software con foco en eficiencia, automatización y buenas prácticas.
+    - 🔍 Passionate about improving software quality with a focus on efficiency, automation, and best practices.
         <br>
-    - 🚀 Siempre abierto a nuevos desafíos donde pueda seguir aprendiendo y aportando valor.
+    - 🚀 Always open to new challenges where I can continue learning and adding value.
     <br>
     <br>
 </div> 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-### 🚀 Tecnologías que uso:
+### 🚀 Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
@@ -46,7 +46,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 <br>
 <br>
-<h3 align="center">📫 Contato:</h3>
+<h3 align="center">📫 Contat:</h3>
     <p align="center">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maximo.lpz88@icloud.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge"></a>
       <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
