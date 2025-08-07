@@ -5,9 +5,12 @@
 Soy un profesional del Testing de Software con más de 10 años de experiencia en el diseño y ejecución de procesos de calidad. Durante mi trayectoria, he tenido el privilegio de colaborar con importantes instituciones financieras como Citibank, Santander, Banco Hipotecario, Banco Comafi, Todo Pago y Western Union, donde he contribuido a mejorar la cobertura de pruebas y optimizar los tiempos de regresión. <br> <br> Mi enfoque se caracteriza por ser detallista, organizado y con un enfoque en el pensamiento lateral para resolver problemas complejos de calidad. Siempre busco aportar valor a los equipos mediante una comunicación clara y una mentalidad orientada a la mejora continua. <br> <br> Me apasiona el trabajo colaborativo en entornos ágiles y el intercambio de conocimientos sobre buenas prácticas en testing, con el objetivo constante de garantizar productos robustos y confiables para los usuarios finales.
 </p>
     <br>
-    <p>Te comparto mi CV, para detallar mi experiencia:</p>
-    [![Descargar CV en español](https://img.shields.io/badge/CV%20(ES)-red)](https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf)
-    <br>
+<p>Te comparto mi CV, para detallar mi experiencia:</p>
+
+[![CV (ES)](https://img.shields.io/badge/CV%20(ES)-red?style=flat&logo=pdf)](https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf)
+[![CV (EN)](https://img.shields.io/badge/CV%20(EN)-blue?style=flat&logo=pdf)](https://github.com/maximolpz/portfolio/blob/main/CVENMaximoNahuelLopez.pdf)
+
+<br>
     <br>
     <br>
     <p>
