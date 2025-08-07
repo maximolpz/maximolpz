@@ -7,11 +7,11 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
     <br>
     <p>Te comparto mi CV, para detallar mi experiencia:</p>
    <a href="https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf">
-    <img src="https://img.shields.io/badge/CV%20(ES)-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/CV%20(ES)-red??style=flat&logo=pdf&logoColor=white">
   </a>
   <span style="margin-left: 10px;"></span>
   <a href="https://github.com/maximolpz/portfolio/blob/main/CVENMaximoNahuelLopez.pdf">
-    <img src="https://img.shields.io/badge/CV%20(EN)-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/CV%20(EN)-blue??style=flat&logo=pdf&logoColor=white">
   </a>
     <br>
     <br>
