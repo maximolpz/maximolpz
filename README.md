@@ -13,7 +13,6 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
 [![CV (ES)](https://img.shields.io/badge/CV%20(ES)-red?style=flat&logo=pdf)](https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf)
 &nbsp;&nbsp;
 [![CV (EN)](https://img.shields.io/badge/CV%20(EN)-blue?style=flat&logo=pdf)](https://github.com/maximolpz/portfolio/blob/main/CVENMaximoNahuelLopez.pdf)
-<
 <br>
     <br>
     <p>
