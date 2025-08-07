@@ -16,7 +16,6 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
     <br>
     🚀 Siempre abierto a nuevos desafíos en los que pueda continuar aprendiendo y agregando valor.
     </p>    
-    <br>
 </div> 
 <div align="center">
     
