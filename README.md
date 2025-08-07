@@ -43,7 +43,7 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
 <br>
 <h3 align="center">📫 Contacto:</h3>
     <p align="center">
-      <a href="mailto:max.lpz88@icloud.com?subject=Contacto%20desde%20GitHub%20-%20Testing%20Software"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge"></a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=max.lpz88@icloud.com?subject=Contacto%20desde%20GitHub%20-%20Testing%20Software"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge"></a>
       <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
 </div> 
