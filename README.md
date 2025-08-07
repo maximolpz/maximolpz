@@ -15,9 +15,9 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
   </a>
     <br>
     <br>
+    <br>
     <p>
     🔍 Apasionado por mejorar la calidad del software con un enfoque en la eficiencia, la automatización y las mejores prácticas.
-    <br>
     <br>
     🚀 Siempre abierto a nuevos desafíos en los que pueda continuar aprendiendo y agregando valor.
     </p>    
