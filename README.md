@@ -32,7 +32,6 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apachejmeter&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 <br>
-<br>
 <h3 align="center">📫 Contacto:</h3>
     <p align="center">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=max.lpz88@icloud.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Máximo,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank">
