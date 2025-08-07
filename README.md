@@ -1,3 +1,16 @@
+<style>
+  .custom-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+</style>
+
+
 <h1 align="center">Hi!👋 I'm Maximo Nahuel Lopez </h1>
 
 <div align="center">
@@ -6,13 +19,9 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
 </p>
     <br>
     <p>Te comparto mi CV, para detallar mi experiencia:</p>
-   <a href="https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf">
-    <img src="https://img.shields.io/badge/CV%20(ES)-red??style=flat&logo=pdf&logoColor=white">
-  </a>
+   <a href="https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf" class="custom-button">CV (ES)</a>
   <span style="margin-left: 10px;"></span>
-  <a href="https://github.com/maximolpz/portfolio/blob/main/CVENMaximoNahuelLopez.pdf">
-    <img src="https://img.shields.io/badge/CV%20(EN)-blue??style=flat&logo=pdf&logoColor=white">
-  </a>
+  <a href="https://github.com/maximolpz/portfolio/blob/main/CVENMaximoNahuelLopez.pdf" class="custom-button">CV (EN)</a>
     <br>
     <br>
     <br>
