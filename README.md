@@ -43,8 +43,8 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
 <br>
 <h3 align="center">📫 Contacto:</h3>
     <p align="center">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=max.lpz88@icloud.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Máximo,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge" alt="Gmail"></a>
-<a href="https://outlook.live.com/owa/?rru=compose&to=max.lpz88@icloud.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Máximo,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge" alt="Outlook"></a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=max.lpz88@icloud.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Máximo,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge" alt="Gmail"></a>
+<a href="https://outlook.live.com/owa/?rru=compose&to=max.lpz88@icloud.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Máximo,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank"><img src="https://img.shields.io/badge/-Outlook-D14836?style=for-the-badge" alt="Outlook"></a>
       <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
 </div> 
