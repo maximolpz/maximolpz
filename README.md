@@ -1,10 +1,9 @@
 <h1 align="center">Hi!👋 I'm Maximo Nahuel Lopez </h1>
 
 <div align="center">
-    Manual Testing and Automation Specialist with over 10 years of experience designing QA processes for Web, API, and Mobile environments.
-Responsible for leading QA teams, developing frameworks from scratch, optimizing CI/CD pipelines, and managing E2E testing.
-Proven track record of reducing regression times and improving test coverage using Cypress, Playwright, Postman, JMeter, and GitHub Actions.
-Expert in Agile/Scrum environments, focused on results and continuous improvement.
+<p>
+Soy un profesional del Testing de Software con más de 10 años de experiencia en el diseño y ejecución de procesos de calidad. Durante mi trayectoria, he tenido el privilegio de colaborar con importantes instituciones financieras como Citibank, Santander, Banco Hipotecario, Banco Comafi, Todo Pago y Western Union, donde he contribuido a mejorar la cobertura de pruebas y optimizar los tiempos de regresión. <br> Mi enfoque se caracteriza por ser detallista, organizado y con un enfoque en el pensamiento lateral para resolver problemas complejos de calidad. Siempre busco aportar valor a los equipos mediante una comunicación clara y una mentalidad orientada a la mejora continua. <br> Me apasiona el trabajo colaborativo en entornos ágiles y el intercambio de conocimientos sobre buenas prácticas en testing, con el objetivo constante de garantizar productos robustos y confiables para los usuarios finales.
+</p>
     <br>
     <br>
    <a href="https://github.com/maximolpz/portfolio/blob/main/CV_ES_Maximo_Nahuel_Lopez.pdf">
