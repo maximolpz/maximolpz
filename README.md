@@ -27,7 +27,7 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
 <br>
 <div align="center">
     
-### 🚀 Technologies:
+### 🚀 Tecnologias:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
@@ -41,7 +41,7 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 <br>
 <br>
-<h3 align="center">📫 Contat:</h3>
+<h3 align="center">📫 Contacto:</h3>
     <p align="center">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maximo.lpz88@icloud.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge"></a>
       <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
