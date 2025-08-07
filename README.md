@@ -7,9 +7,6 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
     <br>
     <p>Te comparto mi CV, para detallar mi experiencia:</p>
     [![Descargar CV en español](https://img.shields.io/badge/CV%20(ES)-red)](https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf)
-   <a href="https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf" class="custom-button">CV (ES)</a>
-  <span style="margin-left: 10px;"></span>
-  <a href="https://github.com/maximolpz/portfolio/blob/main/CVENMaximoNahuelLopez.pdf" class="custom-button">CV (EN)</a>
     <br>
     <br>
     <br>
