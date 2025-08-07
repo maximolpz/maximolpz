@@ -1,13 +1,8 @@
 <h1 align="center">#Hola! ¿Cómo estás?👋 Soy Maximo Nahuel Lopez </h1>
 <div align="center">
-<p>
-Soy un profesional del Testing de Software con más de 10 años de experiencia. Aquí algunos puntos clave sobre mi perfil:
-**Experiencia:** He trabajado con importantes instituciones financieras como Citibank, Santander, Banco Hipotecario, Banco Comafi, Todo Pago y Western Union.
-**Enfoque:** Mi enfoque es detallista, organizado y enfocado en el pensamiento lateral para resolver problemas complejos de calidad.
-**Valores:** Siempre busco aportar valor a los equipos mediante una comunicación clara y una mentalidad orientada a la mejora continua.
-**Pasión:** Me apasiona el trabajo colaborativo en entornos ágiles y el intercambio de conocimientos sobre buenas prácticas en testing.
-**Objetivo:** Garantizar productos robustos y confiables para los usuarios finales.
-</p>
+Soy un profesional con más de 10 años de experiencia en Testing de Software. He trabajado en el diseño y ejecución de procesos de calidad para importantes instituciones financieras como Citibank, Santander, Banco Hipotecario, Banco Comafi, Todo Pago y Western Union.
+Mi enfoque es detallista, organizado y enfocado en resolver problemas complejos de calidad mediante pensamiento lateral. Busco aportar valor a los equipos con comunicación clara y una mentalidad orientada a la mejora continua.
+Me apasiona el trabajo colaborativo en entornos ágiles y compartir conocimientos sobre buenas prácticas en testing. Mi objetivo constante es garantizar productos robustos y confiables para los usuarios finales.
 </div>
     <br>
 <div align="center">
