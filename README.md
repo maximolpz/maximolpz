@@ -23,13 +23,9 @@ Soy un profesional del Testing de Software con más de 10 años de experiencia e
     🚀 Siempre abierto a nuevos desafíos en los que pueda continuar aprendiendo y agregando valor.
     </p>    
     <br>
-    <br>
 </div> 
-
 <br>
-
 <div align="center">
-
 ### 🚀 Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
