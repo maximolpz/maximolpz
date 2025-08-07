@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋 I'm Maximo Nahuel Lopez </h1>
+<h1 align="center">Hola! ¿Cómo estás?👋 Soy Maximo Nahuel Lopez </h1>
 
 <div align="center">
 <p>
