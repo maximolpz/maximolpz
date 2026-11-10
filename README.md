@@ -1,52 +1,71 @@
-<h1 align="center">#Hola! ¿Cómo estás?👋 Soy Maximo Nahuel Lopez </h1>
-<div align="center">
-Soy un profesional con más de 12 años de experiencia en Testing de Software. He trabajado en el diseño y ejecución de procesos de calidad para importantes instituciones financieras como Citibank, Santander, Banco Hipotecario, Banco Comafi, Todo Pago y Western Union.
-Mi enfoque es detallista, organizado y enfocado en resolver problemas complejos de calidad mediante pensamiento lateral. <br> <br> Busco aportar valor a los equipos con comunicación clara y una mentalidad orientada a la mejora continua.
-Me apasiona el trabajo colaborativo en entornos ágiles y compartir conocimientos sobre buenas prácticas en testing. Mi objetivo constante es garantizar productos robustos y confiables para los usuarios finales.
-</div>
-    <br>
-<div align="center">
-<p>
-    Te comparto mi CV, para detallar mi experiencia:
+<h1 align="center">Máximo Nahuel López</h1>
+
+<p align="center">
+  <b>QA Automation Engineer</b> · APIs · End-to-end · Performance<br>
+  Fintech · Banca / Banking · Logística / Logistics
 </p>
 
-[![CV (ES)](https://img.shields.io/badge/CV%20(ES)-red?style=flat&logo=pdf)](https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf)
-&nbsp;&nbsp;
-[![CV (EN)](https://img.shields.io/badge/CV%20(EN)-blue?style=flat&logo=pdf)](https://github.com/maximolpz/portfolio/blob/main/CVENMaximoNahuelLopez.pdf)
-<br>
-    <br>
-    <p>
-    🔍 Apasionado por mejorar la calidad del software con un enfoque en la eficiencia, la automatización y las mejores prácticas.
-    <br>
-    🚀 Siempre abierto a nuevos desafíos en los que pueda continuar aprendiendo y agregando valor.
-    </p>    
-</div> 
-<div align="center">
-    
-### 🚀 Tecnologias:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=fff)
-<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=fff)
-![Playwright](https://img.shields.io/badge/-Playwright-45ba63?style=flat&logo=playwright&logoColor=fff)
-<br>
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apachejmeter&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-<br>
-<h3 align="center">📫 Contacto:</h3>
-    <p align="center">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=max.lpz88@icloud.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Máximo,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Enviar correo con Gmail"></a>
-        &nbsp;&nbsp;
-       <a href="https://outlook.live.com/owa/?rru=compose&to=max.lpz88@icloud.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Máximo,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank">
-<img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Outlook&logoColor=white" alt="Enviar correo con Outlook"></a>
-        &nbsp;&nbsp;
-      <a href="https://linkedin.com/in/maximonahuellopez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&padding=5px"></a>
-    </p>
-</div> 
+<p align="center">
+  <a href="https://github.com/maximolpz/portfolio/blob/main/CVESMaximoNahuelLopez.pdf"><img src="https://img.shields.io/badge/CV-Español-1F3864?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV en español"></a>
+  &nbsp;
+  <a href="https://github.com/maximolpz/portfolio/blob/main/CVENMaximoNahuelLopez.pdf"><img src="https://img.shields.io/badge/Resume-English-1F3864?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume in English"></a>
+</p>
 
+---
 
+## Sobre mí
 
+¡Hola! 👋 Soy QA Automation Engineer con más de 12 años en testing de software, de las pruebas funcionales a la automatización de APIs y flujos end-to-end. Trabajé en proyectos bancarios para Citibank, Santander, Banco Hipotecario y Banco Comafi, lideré equipos de QA y armé la estrategia de pruebas desde cero en proyectos que no tenían QA.
+
+Hoy pruebo de punta a punta los flujos críticos de una fintech de créditos digitales, validando cada caso en la API, la base de datos y los logs, y desarrollo herramientas con IA para que el equipo pruebe más rápido y con datos confiables.
+
+- 🔍 **Automatización de APIs y E2E:** Cypress, Playwright, Postman, Rest Assured
+- ⚡ **Performance:** pruebas de carga y rendimiento con JMeter
+- 🔁 **CI/CD:** suites de regresión en Jenkins y GitHub Actions
+- 🗄️ **Datos y observabilidad:** MySQL, MongoDB, Grafana
+- 🤖 **IA aplicada a QA:** Claude Code, servidores MCP, GitHub Copilot
+
+## About me
+
+Hi! 👋 I'm a QA Automation Engineer with over 12 years in software testing, from functional testing to API and end-to-end automation. I've worked on banking projects for Citibank, Santander, Banco Hipotecario and Banco Comafi, led QA teams and built test strategies from scratch for projects with no prior QA.
+
+Today I own end-to-end testing of critical flows at a digital lending fintech, validating every case across the API, the database and the logs, and I build AI-powered tools that help the team test faster with reliable data.
+
+- 🔍 **API & E2E automation:** Cypress, Playwright, Postman, Rest Assured
+- ⚡ **Performance:** load and performance testing with JMeter
+- 🔁 **CI/CD:** regression suites on Jenkins and GitHub Actions
+- 🗄️ **Data & observability:** MySQL, MongoDB, Grafana
+- 🤖 **AI applied to QA:** Claude Code, MCP servers, GitHub Copilot
+
+## Tecnologías · Tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=fff" alt="Cypress">
+  <img src="https://img.shields.io/badge/-Playwright-45ba63?style=flat&logo=playwright&logoColor=fff" alt="Playwright">
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=fff" alt="Selenium">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff" alt="Postman">
+  <img src="https://img.shields.io/badge/-Rest%20Assured-2E7D32?style=flat" alt="Rest Assured">
+  <img src="https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apachejmeter&logoColor=fff" alt="JMeter">
+  <br>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=fff" alt="Jenkins">
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=fff" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff" alt="MySQL">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=fff" alt="Grafana">
+  <br>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=fff" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=fff" alt="Jira">
+  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=claude&logoColor=fff" alt="Claude Code">
+</p>
+
+## Contacto · Contact
+
+<p align="center">
+  <a href="mailto:max.lpz88@icloud.com?subject=Contacto%20desde%20GitHub"><img src="https://img.shields.io/badge/Email-max.lpz88%40icloud.com-1F3864?style=flat&logo=icloud&logoColor=white" alt="Email"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/maximonahuellopez"><img src="https://img.shields.io/badge/LinkedIn-maximonahuellopez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
